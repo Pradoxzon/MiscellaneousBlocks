@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miscblocks",
+  "name": "Miscellaneous Blocks",
+  "description": "Adds various blocks to the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pradoxzon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
