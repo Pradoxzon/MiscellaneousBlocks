@@ -2,7 +2,7 @@ This mod introduces various blocks to the Vanilla game.  The new blocks are ones
 
 Current Blocks
 ------------------------------------------------------------------
-* Walls for oak planks and birch planks
+* Walls for all vanila wood variants
 
 
 Current Items
@@ -11,4 +11,4 @@ Current Items
 
 Planned
 ------------------------------------------------------------------
-* Walls for each wood type
+* Walls, stairs, and slabs for various blocks
