@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "woodwall",
+    "ingredients": [
+        {
+            "item": "minecraft:dark_oak_fence",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "miscblocks:dark_oak_wall",
+        "data": 0
+    }
+}
