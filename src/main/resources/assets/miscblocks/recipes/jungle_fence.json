@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "woodfence",
+    "ingredients": [
+        {
+            "item": "miscblocks:jungle_wall",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "minecraft:jungle_fence",
+        "data": 0
+    }
+}
