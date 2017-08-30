@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "woodfence",
+    "ingredients": [
+        {
+            "item": "miscblocks:acacia_wall",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "minecraft:acacia_fence",
+        "data": 0
+    }
+}
