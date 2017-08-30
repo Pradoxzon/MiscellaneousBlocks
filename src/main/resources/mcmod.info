@@ -3,7 +3,7 @@
   "modid": "miscblocks",
   "name": "Miscellaneous Blocks",
   "description": "Adds various blocks to the game.",
-  "version": "${version}",
+  "version": "1.12-1.0.1.4",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
