@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "woodwall",
+    "ingredients": [
+        {
+            "item": "minecraft:spruce_fence",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "miscblocks:spruce_wall",
+        "data": 0
+    }
+}

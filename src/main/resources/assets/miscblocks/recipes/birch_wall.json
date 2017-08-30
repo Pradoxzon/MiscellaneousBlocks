@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "woodwall",
+    "ingredients": [
+        {
+            "item": "minecraft:birch_fence",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "miscblocks:birch_wall",
+        "data": 0
+    }
+}
